@@ -1,0 +1,13 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Heavy ML Models and Videos (Data artifacts)
+*.pt
+*.onnx
+*.mp4
+
+# Docker local database storage
+ts_data/
+grafana_data/
